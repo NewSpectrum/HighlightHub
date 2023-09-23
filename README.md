@@ -1,4 +1,11 @@
-# highlighthub README
+> __Warning__
+> This extension is still heavily under construction and is nowhere near completion.
+
+> __Note__
+> This README is currently a placeholder and contains no actual documentation.
+
+
+# HighlightHub
 
 This is the README for your extension "highlighthub". After writing up a brief description, we recommend including the following sections.
 
